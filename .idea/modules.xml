@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hsba.iml" filepath="$PROJECT_DIR$/hsba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/hsba_android.iml" filepath="$PROJECT_DIR$/android/hsba_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hsba_app.iml" filepath="$PROJECT_DIR$/hsba_app.iml" />
     </modules>
   </component>
 </project>
