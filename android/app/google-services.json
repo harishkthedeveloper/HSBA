@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597961133965",
+    "project_id": "hsba-53868",
+    "storage_bucket": "hsba-53868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597961133965:android:6f0bb31e6fb5e32cc037c4",
+        "android_client_info": {
+          "package_name": "com.example.hsba_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxKjsgwggebQbfUA70IbVKF21DTNRbzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
