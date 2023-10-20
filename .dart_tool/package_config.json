@@ -69,9 +69,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "fake_async",
@@ -129,9 +129,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4",
+      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/flutter_lints-3.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_test",
@@ -207,9 +207,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/lints-1.0.1",
+      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/lints-3.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "matcher",
@@ -309,9 +309,9 @@
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/typed_data-1.3.0",
+      "rootUri": "file:///Users/harishkandekar/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "vector_math",
@@ -338,7 +338,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2023-10-19T09:36:55.989476Z",
+  "generated": "2023-10-19T12:50:08.107113Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
